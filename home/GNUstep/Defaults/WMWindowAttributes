@@ -1,0 +1,153 @@
+{
+  tip_of_the_day.Gimp = {
+    NoMiniaturizeButton = Yes;
+    AlwaysUserIcon = Yes;
+    NoResizebar = Yes;
+    Icon = "wmaker-gimp2.tif";
+    KeepOnTop = Yes;
+    NoCloseButton = Yes;
+  };
+  sonata.Sonata = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/sonata.Sonata.xpm";
+  };
+  color_palette.Gimp = {
+    AlwaysUserIcon = Yes;
+    NoResizebar = Yes;
+    Icon = "wmaker-gimp-palette.tif";
+  };
+  indexed_color_palette.Gimp = {
+    AlwaysUserIcon = Yes;
+    NoResizebar = Yes;
+    Icon = "wmaker-gimp-palette.tif";
+  };
+  "script-fu.Script-fu" = {
+    Icon = "wmaker-gimp-script-fu.tif";
+  };
+  KTerm = {
+    Icon = GNUterm.tiff;
+  };
+  panel = {
+    NoAppIcon = Yes;
+  };
+  Netscape = {
+    Icon = "wmaker-netscape.tif";
+  };
+  tool_options.Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp-tooloption.tif";
+  };
+  layers_and_channels.Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp-layers.tif";
+  };
+  WPrefs = {
+    Icon = "/usr/share/lib/GNUstep/System/Applications/WPrefs.app/WPrefs.tiff";
+  };
+  emacs = {
+    Icon = "wmaker-emacs.tif";
+  };
+  thunar.Thunar = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/thunar.Thunar.xpm";
+  };
+  brushselection.Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp-brushes.tif";
+  };
+  "epiphany-browser.Epiphany-browser" = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/epiphany-browser.Epiphany-browser.xpm";
+  };
+  gradient_editor.Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp-gradient.tif";
+  };
+  midori.Midori = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/midori.Midori.xpm";
+  };
+  toolbox.Gimp = {
+    NoAppIcon = Yes;
+    Icon = "wmaker-gimp2.tif";
+  };
+  xchat.Xchat = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/xchat.Xchat.xpm";
+  };
+  WMSoundServer = {
+    Icon = Sound.tiff;
+  };
+  "xfce4-terminal.Xfce4-terminal" = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/xfce4-terminal.Xfce4-terminal.xpm";
+  };
+  Dockit = {
+    Icon = GNUstep.tiff;
+  };
+  groupLeader.WPrefs = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/groupLeader.WPrefs.xpm";
+  };
+  gimp_startup.Gimp = {
+    NotClosable = Yes;
+    NoTitlebar = Yes;
+    NotMiniaturizable = Yes;
+    AlwaysUserIcon = Yes;
+    NoResizebar = Yes;
+    Icon = "wmaker-gimp2.tif";
+  };
+  sakura.Sakura = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/sakura.Sakura.xpm";
+  };
+  patternselection.Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp-patterns.tif";
+  };
+  NXTerm = {
+    Icon = GNUterm.tiff;
+  };
+  image_window.Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp-work.tif";
+  };
+  Rxvt = {
+    Icon = GNUterm.tiff;
+  };
+  "Script-fu" = {
+    Icon = "wmaker-gimp-script-fu.tif";
+  };
+  gmc = {
+    SkipWindowList = Yes;
+    NoAppIcon = Yes;
+    Omnipresent = Yes;
+  };
+  Logo.WMPanel = {
+    Icon = GNUstep.tiff;
+  };
+  Tile.WMClip = {
+    Icon = clip.tiff;
+  };
+  XTerm = {
+    Icon = GNUterm.tiff;
+  };
+  "Mozilla-bin" = {
+    Icon = "wmaker-nav.tif";
+  };
+  iceweasel.Iceweasel = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/iceweasel.Iceweasel.xpm";
+  };
+  vim.gnome.Vim.gnome = {
+    Icon = "/home/robert/GNUstep/Library/WindowMaker/CachedPixmaps/vim.gnome.Vim.gnome.xpm";
+  };
+  Logo.WMDock = {
+    Icon = GNUstep.tiff;
+  };
+  "*" = {
+    Icon = defaultAppIcon.tiff;
+  };
+  Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp2.tif";
+  };
+  Logo.WMClip = {
+    Icon = clip.tiff;
+  };
+  preferences.Gimp = {
+    AlwaysUserIcon = Yes;
+    Icon = "wmaker-gimp-prefs.tif";
+  };
+}

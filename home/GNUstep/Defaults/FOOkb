@@ -1,0 +1,11 @@
+{
+#	Icon1 = "/usr/share/fookb/1.xpm";
+#	Icon2 = "/usr/share/fookb/2.xpm";
+	Icon1 = "/usr/share/fookb/lat.xpm";
+	Icon2 = "/usr/share/fookb/rus.xpm";
+	Icon3 = "/usr/share/fookb/3.xpm";
+	Icon4 = "/usr/share/fookb/4.xpm";
+	IconBoom = "/usr/share/fookb/boom.xpm";
+	Sound = "Yes";
+	Command = "/usr/bin/play /usr/share/fookb/beep_spring.au";
+}
